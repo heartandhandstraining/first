@@ -1,2 +1,2 @@
-# first
-First repository
+hello-world
+Github orientation repository
